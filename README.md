@@ -17,6 +17,7 @@ A simple quiz game built with Python
     - [start game](#start-game)
     - [quiz](#quiz)
     - [final score](#final-score)
+  - [Demo](#demo)
   - [Roadmap](#roadmap)
   - [Contributing](#contributing)
   - [Licence](#licence)
@@ -146,7 +147,8 @@ keep praticing alex
 ### final score
 ![final score](pictures\sc3.jpg)
 
-
+## Demo 
+![quiz game demo](gifs/demo.gif)
 
 ## Roadmap
 - [x] add multiple quiz questions
