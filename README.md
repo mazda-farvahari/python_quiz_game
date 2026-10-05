@@ -54,9 +54,9 @@ python_quiz_game/
 │       demo.gif
 │
 ├───pictures
-│       1.png
-│       2.png
-│       3.png
+│       sc1.jpg
+│       sc2.jpg
+│       sc3.jpg
 └───
 ```
 ### File Description
@@ -69,9 +69,9 @@ python_quiz_game/
 | `.gitignore` | tells git which files and folders shold not be tracked|
 |  `README.md` | contains the project documentation|
 |  `pictures/` | stores project sreenshots|
-|  `pictures/1.png` | screenshot of the game start|
-|  `pictures/2.png` | screenshot of the quiz section|
-|  `pictures/3.png` | screenshot of tfinal result|
+|  `pictures/sc1.jpg` | screenshot of the game start|
+|  `pictures/sc12.jpg` | screenshot of the quiz section|
+|  `pictures/sc3.jpg` | screenshot of tfinal result|
 |  `gifs/` | stores demo GIF files|
 |  `gifs/demo.gif` |shows the project demo|
 
